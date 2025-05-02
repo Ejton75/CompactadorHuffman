@@ -1,5 +1,6 @@
 import heapq
 from collections import defaultdict, deque
+from huffman import HuffmanCompressor
 
 class LZ77Compressor:
     """Implementação do algoritmo LZ77 para pré-compressão"""
