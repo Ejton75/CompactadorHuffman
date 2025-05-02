@@ -1,0 +1,2 @@
+ABRACADABRABRABRABRA
+Exemplo de texto com repetições que o LZ77 pode explorar.
